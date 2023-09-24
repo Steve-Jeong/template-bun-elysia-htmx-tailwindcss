@@ -2,4 +2,4 @@
 https://www.youtube.com/watch?v=cpzowDDJj24&t=345s
 
 1. bun init
-2. 
+2. bun add elysia
