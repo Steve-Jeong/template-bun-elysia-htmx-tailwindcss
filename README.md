@@ -16,4 +16,7 @@ https://www.youtube.com/watch?v=cpzowDDJj24&t=345s
 9. Rename index.ts to index.tsx. 
 10. import * as elements from "typed-html"
 11. Rerun bun run --watch index.tsx
+12. Modify BaseHtml template literal string to JSX component
+13. Modify router to use JSX component
+
 
