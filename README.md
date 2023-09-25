@@ -18,4 +18,7 @@ https://www.youtube.com/watch?v=cpzowDDJj24&t=345s
 11. Rerun bun run --watch index.tsx
 12. Change BaseHtml to the anonymous function that accept children and return JSX string.
 13. Change index.js to feed children to BaseHtml
+14. Introduce htmx by inserting script tag in the head section of the BaseHtml.
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+15. Change index.tsx to htmx syntax    
 
