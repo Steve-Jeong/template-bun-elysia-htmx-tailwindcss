@@ -16,4 +16,6 @@ https://www.youtube.com/watch?v=cpzowDDJj24&t=345s
 9. Rename index.ts to index.tsx. 
 10. import * as elements from "typed-html"
 11. Rerun bun run --watch index.tsx
+12. Change BaseHtml to the anonymous function that accept children and return JSX string.
+13. Change index.js to feed children to BaseHtml
 
