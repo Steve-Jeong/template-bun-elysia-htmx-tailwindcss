@@ -21,4 +21,7 @@ https://www.youtube.com/watch?v=cpzowDDJj24&t=345s
 14. Introduce htmx by inserting script tag in the head section of the BaseHtml.
     <script src="https://unpkg.com/htmx.org@1.9.6"></script>
 15. Change index.tsx to htmx syntax    
-
+16. Introduce tailwind.css by inserting script tag in the head section of the BaseHtml.
+    <script src="https://cdn.tailwindcss.com"></script>
+17. If you use tailwind intellisense extension in the vscode, make tailwind.config.js in the home directory for any tailwindcss configuration
+18. Change index.tsx to tailwind css syntax
